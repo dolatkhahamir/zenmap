@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zenmap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zenmap_jar</output-path>
+    <root id="archive" name="zenmap.jar">
+      <element id="module-output" name="zenmap" />
+    </root>
+  </artifact>
+</component>
